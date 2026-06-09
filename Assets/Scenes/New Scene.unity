@@ -1722,7 +1722,7 @@ GameObject:
   - component: {fileID: 303431476}
   - component: {fileID: 303431475}
   m_Layer: 5
-  m_Name: Brown Couch
+  m_Name: Brown Sofa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
